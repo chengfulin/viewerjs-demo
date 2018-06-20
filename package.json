@@ -1,0 +1,16 @@
+{
+  "name": "viewerjs-demo",
+  "version": "1.0.0",
+  "description": "Demoe use of ViewerJS, a Javascript PDF viewer for cross-browser use, powered by PDF.JS(by Mozilla)",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
